@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Infinite Best]]></title>
         <description><![CDATA[Infinite Best]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/infinite-best/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 16:36:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 17:11:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/infinite-best/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc987915-2f49-4c97-8b2e-e7912f1ad3c8.jpg">]]></description>
+            <link>https://thegrid.ai/infinite-best/638edfcf-bc64-46cd-8b03-f14949d5b9ed/index.html</link>
+            <guid isPermaLink="false">638edfcf-bc64-46cd-8b03-f14949d5b9ed</guid>
+            <pubDate>Wed, 23 Mar 2016 17:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05e0c796-4ebf-4e61-8058-41382933355d.jpg">]]></description>
-            <link>undefined0a1c4709-1ec1-43f4-a97f-b6066bedd6b2/index.html</link>
+            <link>https://thegrid.ai/infinite-best/0a1c4709-1ec1-43f4-a97f-b6066bedd6b2/index.html</link>
             <guid isPermaLink="false">0a1c4709-1ec1-43f4-a97f-b6066bedd6b2</guid>
             <pubDate>Wed, 23 Mar 2016 16:36:05 GMT</pubDate>
         </item>
