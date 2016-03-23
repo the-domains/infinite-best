@@ -1,0 +1,28 @@
+name: Infinite Best
+favicon: null
+layout_spectrum: 0.6958830703515559
+typography_spectrum: 0.7694295898545533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.914077487308532
+  lightness: 0.7585517470724881
+  saturation: 0.8164160943124443
+  rhythmicContrast: 0.013367558130994439
+purpose: []
